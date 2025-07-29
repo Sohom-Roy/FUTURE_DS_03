@@ -42,7 +42,7 @@ The goal was to analyze **student feedback ratings** for various teaching aspect
 ---
 
 ## 📂 **Files**
-- `College Event Feedback Analysis - Future Interns.ipynb` – main analysis notebook
+- `Copy_of_student_feedback.ipynb` – main analysis notebook containing data cleaning, visualizations, dashboard, and final recommendations
 
 ---
 
@@ -54,7 +54,7 @@ This project was created as Task 3 under the **Data Science & Analytics track*
 ---
 
 ## ⭐ **Connect**
-If you'd like to view my notebook, see the [`.ipynb` file in this repository](./College%20Event%20Feedback%20Analysis%20-%20Future%20Interns.ipynb).
+If you'd like to view the notebook, see the [`.ipynb` file in this repository](./Copy_of_student_feedback.ipynb).
 
-For questions or feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/).
+For questions or feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sohom-roy-009588314).
 
