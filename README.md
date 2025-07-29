@@ -56,5 +56,5 @@ This project was created as Task 3 under the **Data Science & Analytics track*
 ## ⭐ **Connect**
 If you'd like to view the notebook, see the [`.ipynb` file in this repository](./Copy_of_student_feedback.ipynb).
 
-For questions or feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sohom-roy-009588314).
+For questions or feedback, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sohom-roy-009588314) or mail me at sohomroyofficial2025@gamil.com.
 
