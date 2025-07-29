@@ -1,4 +1,4 @@
-# 📊 College Event Feedback Analysis – Future Interns Task 3
+# 📊 College Event Feedback Analysis 
 
 This project was completed as part of my **Data Science & Analytics Internship** at [Future Interns](https://futureinterns.com/).
 
